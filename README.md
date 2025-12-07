@@ -1,2 +1,2 @@
-# programming-fundamental
+# programming-fundamentals
 lab tasks
