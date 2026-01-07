@@ -7,13 +7,13 @@ Learned to use escape sequences like \n, \t, and \\.
 Completed three simple tasks using formulas.
 
 
-*Lab 3 – Basic Formulas
+* Lab 3 – Basic Formulas
 
 Three tasks using basic formulas and simple calculations.
 Practiced computation and output formatting in C++.
 
 
-* Lab 4 – Even/Odd & Conditional (Ternary Operator)
+*  Lab 4 – Even/Odd & Conditional (Ternary Operator)
 
 Three tasks: checked if numbers are even or odd.
 Used ternary operator to apply conditions.
