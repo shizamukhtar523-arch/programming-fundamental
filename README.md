@@ -19,7 +19,7 @@ Three tasks: checked if numbers are even or odd.
 Used ternary operator to apply conditions.
 
 
-*Lab 5 – If / Else Conditions
+* Lab 5 – If / Else Conditions
 
 Eight tasks using if and if-else statements.
 Applied single or multiple conditions as required.
