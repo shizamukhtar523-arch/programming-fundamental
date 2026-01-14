@@ -61,5 +61,13 @@ Focused on counter-controlled loops to repeat actions a specific number of times
 Implemented programs to initialize, reverse, and find the largest number within an array of integers.
 
 
+* Lab 12 – Functions
+
+Completed tasks using user-defined functions to promote code reusability and modularity. Focused on passing arguments (call by value), returning values, and breaking down complex problems into smaller, manageable functional blocks.
+
+* Lab 13 – Pointers
+
+Tasks focused on the fundamentals of memory management using pointers. Implemented programs to understand memory addresses, pointer arithmetic, and the use of pointers to access and modify variable values directly in memory
+
 
 --
